@@ -95,7 +95,9 @@ likes_python = input("Do you like Python? (True/False): ") == "True"
 
 ---
 
-🐍 This is part of the Pythonly beginner series.
-Learn Python one line at a time. Follow @Pythonly for more.
+🐍 This is part of the **Pythonly** beginner series.  
+Learn Python one line at a time. Follow **@Pythonly** for more.
+
+---
 
 
